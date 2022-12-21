@@ -1,4 +1,5 @@
-# MariaDB-Master-Slave-Replication-on-CentOS-8
+# MariaDB-Multi-Source-Replication-on-CentOS-8
+
 
 ```shmaster 1 server - 192.168.100.168
 
