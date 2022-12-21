@@ -1,5 +1,6 @@
 # MariaDB-Master-Slave-Replication-on-CentOS-8
 
+```sh
 master server - 192.168.100.168
 slave  server - 192.168.100.169
 
@@ -65,3 +66,6 @@ MariaDB [(NONE)]> SET GLOBAL SQL_SLAVE_SKIP_COUNTER = 1;
 MariaDB [(NONE)]> START SLAVE;
 MariaDB [(NONE)]> SELECT SLEEP(5);
 MariaDB [(NONE)]> SHOW SLAVE STATUS\G
+```
+
+
