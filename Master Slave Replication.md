@@ -66,4 +66,6 @@ MariaDB [(NONE)]> SET GLOBAL SQL_SLAVE_SKIP_COUNTER = 1;
 MariaDB [(NONE)]> START SLAVE;
 MariaDB [(NONE)]> SELECT SLEEP(5);
 MariaDB [(NONE)]> SHOW SLAVE STATUS\G
+
+https://linuxhint.com/mariadb_replication_rhel8/
 ```
