@@ -67,5 +67,6 @@ MariaDB [(NONE)]> START SLAVE;
 MariaDB [(NONE)]> SELECT SLEEP(5);
 MariaDB [(NONE)]> SHOW SLAVE STATUS\G
 
+https://dba.stackexchange.com/questions/10184/mysql-replication-error
 https://linuxhint.com/mariadb_replication_rhel8/
 ```
